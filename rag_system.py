@@ -1,7 +1,5 @@
-# ==========================================================
-# 🌾 Project Samarth – RAG System with Groq API
-# Free, Fast, and Optimized for 8GB RAM systems
-# ==========================================================
+
+
 
 import os
 import pandas as pd
