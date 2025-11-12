@@ -1,0 +1,7 @@
+requests
+pandas
+numpy
+streamlit
+groq
+python-dotenv
+pathlib

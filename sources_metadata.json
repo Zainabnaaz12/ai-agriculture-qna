@@ -1,0 +1,58 @@
+{
+  "crop_production_district": {
+    "resource_id": "9ef84268-d588-465a-a308-a864a43d0070",
+    "title": "District-wise Crop Production Statistics (1997-2015)",
+    "organization": "Ministry of Agriculture & Farmers Welfare",
+    "url": "https://data.gov.in/resource/districtwise-crop-production-statistics-1997-2015",
+    "description": "District-wise crop production data with area, production, and yield statistics"
+  },
+  "crop_production_state": {
+    "resource_id": "0378729d-9846-4d87-9a3e-b0a7ee724054",
+    "title": "State-wise Crop Production Statistics (2020-21)",
+    "organization": "Ministry of Agriculture & Farmers Welfare",
+    "url": "https://data.gov.in/resource/statewise-crop-production-statistics-2020-21",
+    "description": "State-wise crop production data for recent years"
+  },
+  "rainfall_district": {
+    "resource_id": "6c05cd1b-ed59-40c2-bc31-e314f39c6971",
+    "title": "District-wise Daily Rainfall Data (NRSC VIC MODEL)",
+    "organization": "National Remote Sensing Centre",
+    "url": "https://data.gov.in/resource/district-wise-daily-rainfall-data-nrsc-vic-model",
+    "description": "District-wise daily rainfall data from NRSC VIC MODEL"
+  },
+  "rainfall_state": {
+    "resource_id": "6c05cd1b-ed59-40c2-bc31-e314f39c6971",
+    "title": "State-wise Annual Rainfall Data",
+    "organization": "India Meteorological Department",
+    "url": "https://data.gov.in/resource/state-wise-annual-rainfall-data",
+    "description": "State-wise annual rainfall data"
+  },
+  "crop_production": {
+    "resource_id": "5bf0255e-35ee-439b-aec6-99677586d07d",
+    "title": "Foodgrain Production Data",
+    "organization": "Ministry of Agriculture & Farmers Welfare",
+    "url": "https://data.gov.in/resource/5bf0255e-35ee-439b-aec6-99677586d07d",
+    "description": "State-wise, crop-wise foodgrain production data for various years"
+  },
+  "rainfall": {
+    "resource_id": "6c05cd1b-ed59-40c2-bc31-e314f39c6971",
+    "title": "District-wise Daily Rainfall Data (NRSC VIC MODEL)",
+    "organization": "India Meteorological Department",
+    "url": "https://data.gov.in/resource/6c05cd1b-ed59-40c2-bc31-e314f39c6971",
+    "description": "District-wise daily rainfall data from NRSC VIC MODEL"
+  },
+  "mandi_prices": {
+    "resource_id": "9ef84268-d588-465a-a308-a864a43d0070",
+    "title": "Daily Market Prices of Selected Commodities",
+    "organization": "Ministry of Agriculture & Farmers Welfare",
+    "url": "https://data.gov.in/resource/9ef84268-d588-465a-a308-a864a43d0070",
+    "description": "Daily mandi prices for agricultural commodities across states"
+  },
+  "crop_production_detailed": {
+    "resource_id": "a1a5e4c0-3e3e-4c9a-8c8e-7b9c5c0c0c0c",
+    "title": "District-wise Crop Production Statistics",
+    "organization": "Ministry of Agriculture & Farmers Welfare",
+    "url": "https://data.gov.in/resource/a1a5e4c0-3e3e-4c9a-8c8e-7b9c5c0c0c0c",
+    "description": "Detailed district-wise crop production data"
+  }
+}

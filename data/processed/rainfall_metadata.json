@@ -1,0 +1,208 @@
+{
+  "shape": [
+    10000,
+    18
+  ],
+  "columns": [
+    "subdivision",
+    "year",
+    "jan",
+    "feb",
+    "mar",
+    "apr",
+    "may",
+    "jun",
+    "jul",
+    "aug",
+    "sep",
+    "oct",
+    "nov",
+    "dec",
+    "annual_rainfall",
+    "source_dataset",
+    "resource_id",
+    "source_url"
+  ],
+  "dtypes": {
+    "subdivision": "object",
+    "year": "int64",
+    "jan": "int64",
+    "feb": "int64",
+    "mar": "int64",
+    "apr": "int64",
+    "may": "int64",
+    "jun": "int64",
+    "jul": "int64",
+    "aug": "int64",
+    "sep": "int64",
+    "oct": "int64",
+    "nov": "int64",
+    "dec": "int64",
+    "annual_rainfall": "int64",
+    "source_dataset": "object",
+    "resource_id": "object",
+    "source_url": "object"
+  },
+  "missing_values": {
+    "subdivision": 0,
+    "year": 0,
+    "jan": 0,
+    "feb": 0,
+    "mar": 0,
+    "apr": 0,
+    "may": 0,
+    "jun": 0,
+    "jul": 0,
+    "aug": 0,
+    "sep": 0,
+    "oct": 0,
+    "nov": 0,
+    "dec": 0,
+    "annual_rainfall": 0,
+    "source_dataset": 0,
+    "resource_id": 0,
+    "source_url": 0
+  },
+  "numeric_summary": {
+    "year": {
+      "count": 10000.0,
+      "mean": 2018.4689,
+      "std": 0.4990568061549153,
+      "min": 2018.0,
+      "25%": 2018.0,
+      "50%": 2018.0,
+      "75%": 2019.0,
+      "max": 2019.0
+    },
+    "jan": {
+      "count": 10000.0,
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.0,
+      "max": 0.0
+    },
+    "feb": {
+      "count": 10000.0,
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.0,
+      "max": 0.0
+    },
+    "mar": {
+      "count": 10000.0,
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.0,
+      "max": 0.0
+    },
+    "apr": {
+      "count": 10000.0,
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.0,
+      "max": 0.0
+    },
+    "may": {
+      "count": 10000.0,
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.0,
+      "max": 0.0
+    },
+    "jun": {
+      "count": 10000.0,
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.0,
+      "max": 0.0
+    },
+    "jul": {
+      "count": 10000.0,
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.0,
+      "max": 0.0
+    },
+    "aug": {
+      "count": 10000.0,
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.0,
+      "max": 0.0
+    },
+    "sep": {
+      "count": 10000.0,
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.0,
+      "max": 0.0
+    },
+    "oct": {
+      "count": 10000.0,
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.0,
+      "max": 0.0
+    },
+    "nov": {
+      "count": 10000.0,
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.0,
+      "max": 0.0
+    },
+    "dec": {
+      "count": 10000.0,
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.0,
+      "max": 0.0
+    },
+    "annual_rainfall": {
+      "count": 10000.0,
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.0,
+      "max": 0.0
+    }
+  }
+}
