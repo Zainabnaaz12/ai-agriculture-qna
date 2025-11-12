@@ -1,7 +1,4 @@
-"""
-Quick test script for Project Samarth (Groq Version)
-Run this to verify your system is working correctly
-"""
+
 
 import os
 from pathlib import Path
